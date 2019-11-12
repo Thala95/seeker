@@ -1,1 +1,1 @@
-# seeker
+# seeker.gi
